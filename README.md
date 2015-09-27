@@ -1,4 +1,4 @@
-# ICSE-2014-TEAMSCALE
+# ICSE-2014-Teamscale
 Code analysis software tool.
 
 ***
@@ -12,7 +12,7 @@ This repository is not the original repository for this tool. Here are some link
  
 In this repository, for Teamscale you will find:
 
- - :x: Source code (not available)
- - :x: Executable tool (not available)
+ - :x: Source code (not available, the tool is proprietary)
+ - :x: Executable tool (not available, the authors do not prefer the users to download the tool from third-party locations)
 
 This repository was constructed by [Pragyan Paramita Jena] (https://github.com/ppjena) under the supervision of [Emerson Murphy-Hill] (https://github.com/CaptainEmerson).
