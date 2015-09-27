@@ -1,5 +1,5 @@
 # ICSE-2014-Teamscale
-Code analysis software tool.
+Code analysis tool.
 
 ***
 
